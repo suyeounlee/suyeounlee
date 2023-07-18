@@ -28,6 +28,8 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyeounlee&layout=compact)](https://github.com/suyeounlee/github-readme-stats)
+
+[![Top Langs](https://img.shields.io/github/languages/top/suyeounlee/your-repo-name)](https://github.com/suyeounlee/github-readme-stats)
+
 
 </div>
