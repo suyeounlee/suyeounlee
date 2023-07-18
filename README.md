@@ -29,6 +29,5 @@
 <br><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyeounlee)](https://github.com/suyeounlee/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyeounlee&layout=compact)](https://github.com/suyeounlee/github-readme-stats)
 </div>
