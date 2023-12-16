@@ -1,7 +1,7 @@
 
 <div align=center>
 <h2>Hi there, I'm Su Yeoun Lee 👋 </h2> 
-<h3>:seedling: I'm a Junior Developer based in Canada.:seedling: </h3><br>
+<h3>:seedling: I'm a passionate Fullstack Developer based in Canada.:seedling: </h3><br>
 
 <a href="https://www.linkedin.com/in/suyeoun/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0388f5?style=flat-square&logo=0A66C2&logoColor=white" width="80" height="27"/></a>
 <a href="https://suyeoun-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-ffbe0b?style=flat-square&logo=0A66C2&logoColor=white"  width="80" height="27" /></a>
